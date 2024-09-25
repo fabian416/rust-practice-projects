@@ -1,1 +1,1 @@
-/Users/fabian/rust-projects/variables/target/debug/variables: /Users/fabian/rust-projects/variables/src/main.rs
+/Users/fabiandiaz/github-repos/rust-practice-projects/variables/target/debug/variables: /Users/fabiandiaz/github-repos/rust-practice-projects/variables/src/main.rs
