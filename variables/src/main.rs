@@ -1,14 +1,5 @@
 fn main() {
+    let _x = 2.0; // f64
 
-    let x = 5;
-    let x = x + 1;
-
-    println!("The Value of x is: {x}");
-
-    {
-        let x = x * 2;
-        println!("The value of x in the inner scope is {x}");
-    }
-
-    println!("The final value of x is: {x}");
+    let _y: f32 = 3.0; // f32
 }
