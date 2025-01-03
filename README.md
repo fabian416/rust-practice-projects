@@ -1,1 +1,1 @@
-# Mi Proyecto
+# Series of projects to practice with Rust's book 
