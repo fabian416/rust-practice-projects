@@ -12,7 +12,7 @@ fn main() {
     let z = -123;
     const NUM: u32 = 1;
 
-    // Re declare a variable is called shadowing
+    // Re declare a variable is called shadowin
     let x: i32 = -1;
     let x: bool = true;
 
