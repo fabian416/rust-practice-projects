@@ -18,4 +18,13 @@ fn main() {
     // First 3 elements
     let s = &nums[0..3]; // not included the third element so you get: 0, 1, 2
     print!("First 3 elements are: {:?}", s);
+
+    let s = &nums[3..7];
+    print!("middle 4 elements: {:?}", s);
+
+    let s = &nums[7..10];
+    print!("last 4 elements : {:?}", s);
+
+    let s = &nums[..];
+    print!("all elemts {:?}", s);
 }
