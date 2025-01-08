@@ -1,4 +1,4 @@
-#[allow(unused)]
+#![allow(unused)]
 
 // Compound data tyeps
 // - tuple
@@ -22,5 +22,5 @@ fn main() {
     let t: (bool, u32, char) = (true, 1, 'c');
     println!("t = {}, {}, {}", t.0, t.1, t.2);
 
-    println!("nested {} {}", nested.0.0, nested.1.1);
+    println!("nested {} {}", nested.0 .0, nested.1 .1);
 }

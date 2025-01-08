@@ -1,4 +1,4 @@
-#[allow(unused)]
+#![allow(unused)]
 
 fn main() {
     // Array - fixed length, known at compile time
